@@ -1,4 +1,4 @@
-Feature: Seccion de las redes sociales/Footer del Landing Page
+Feature: Sección de las redes sociales/Footer del Landing Page
 
 #Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación
 
