@@ -1,4 +1,4 @@
-Feature: Seccion de contactos en la Landing Page
+Feature: Sección de contactos en la Landing Page
 
 #Como usuario quiero contactar alguna persona para resolver dudas o problemas.
 
@@ -13,6 +13,6 @@ Feature: Seccion de contactos en la Landing Page
       | Teléfono |
       | Email |
     Examples: OUPUT
-      | mesaje |
+      | mensaje |
       | Gracias por ponernos en contacto, nos pondremos en contacto contigo a la brevedad posible |
     
